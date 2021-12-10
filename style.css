@@ -1,0 +1,74 @@
+body{
+    background-color:#EFF6FF;
+padding:40px;
+padding-top: 80px;
+padding-bottom: 80px;
+margin: 0;
+
+}
+main{
+    display: flex;
+    background-color: #ffffff;
+   justify-content: flex-start;
+   margin: 0;
+}
+
+article{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+   color:#2A4A5C;
+  font-family: 'BARLOW';
+}
+h1{
+    font-size: 30px;
+}
+div{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.fb{
+background-color: #255A9B;
+color: #EEEEEE;
+padding: 10px;
+padding-left: 30px;
+padding-right: 30px;
+vertical-align: bottom;
+text-align: left;
+border: 1px solid #ffffff;
+margin-right: 30px;
+}
+.in{
+    background-color: #0076B6;
+    color: #EEEEEE;
+    padding: 10px;
+    padding-left: 30px;
+padding-right: 30px;
+text-align: left;
+  vertical-align: bottom; 
+  border: 1px solid #ffffff;
+}
+.aside_1{
+    font-size: 20px;
+}
+.submit{
+    background-color: #3698FB;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 15px;
+    padding-left: 75px;
+    padding-right: 75px;
+    margin-top: 40px;
+}
+a{
+    color:#3698FB;
+}
+p , .checkbox{
+color:#AFAFAF;
+}
+.email,.phone{
+    padding: 10px;
+}
